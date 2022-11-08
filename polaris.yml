@@ -16,4 +16,4 @@ analyze:
 install:
   coverity:
     version: default
-serverUrl: https://sipse.polaris.synopsys.com
+serverUrl: https://sig-cons-ms-sca.polaris.synopsys.com
